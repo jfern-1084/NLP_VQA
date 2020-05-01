@@ -15,9 +15,9 @@ The attached report will give you a brief understanding of each of these models.
 are described in the document have actually secured the top 3 spot in the VQA 2019 challenge.
 The code base for the three models that we have stored here are : MCAN, LXMERT and DFAF. 
 Here are the official links or github pages to the model code:
-MCAN: https://github.com/MILVLG/openvqa
-LXMERT: https://github.com/airsplay/lxmert
-DFAF: https://github.com/bupt-cist/DFAF-for-VQA.pytorch
+* MCAN: https://github.com/MILVLG/openvqa
+* LXMERT: https://github.com/airsplay/lxmert
+* DFAF: https://github.com/bupt-cist/DFAF-for-VQA.pytorch
 
  
 We have explained these concepts and also provided more information about attention networks which we hope will be beneficial for
