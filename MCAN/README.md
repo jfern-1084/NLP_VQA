@@ -1,4 +1,4 @@
-##Modular Co-Attention Network
+## Modular Co-Attention Network
 
 You can use this repo to work with the MCAN model. 
 
